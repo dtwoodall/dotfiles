@@ -1,24 +1,6 @@
 [user]
-  name = Andrew Purcell
-  email = andrew.purcell@mixpanel.com
-[alias]
-  l = log --decorate
-  co = checkout
-  ci = commit
-  cp = cherry-pick
-  di = diff
-  dc = diff --cached
-  ff = merge --ff-only
-  fa = fetch --all
-  g = grep
-  pom = push origin master
-  b = branch --format='%(HEAD) %(if)%(HEAD)%(then)%(color:green)%(end)%(refname:lstrip=2) (%(authordate:relative))'
-  ds = diff --stat=160,120
-  dh1 = diff HEAD~1
-  rom = reset --hard origin/master
-  mom = merge origin/master
-
-  upstream-reset = reset HEAD@{upstream}
+  name = Daniel Woodall
+  email = dtwoodall@gmail.com
 [push]
   default = current
 [merge]
